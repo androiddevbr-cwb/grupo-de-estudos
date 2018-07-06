@@ -1,6 +1,6 @@
 ***Resumo das reuniões***
 
-- [1º Reunião](pautas-passadas/05_06_2018)
+- 1º Reunião
   - Síntese da reunião:
     - Reunião para dar diretrizes para o grupo
     - Definido que será dividido em grupos que se disponham a fazer um projeto juntos
