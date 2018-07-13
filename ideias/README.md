@@ -2,7 +2,4 @@
 
 
 
-
-
-### Cidadadão de Bem
--url: https://github.com/androiddevbr-cwb/cidadaodebem
+### [Cidadadão de Bem](/cidadaodebem)
